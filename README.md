@@ -1,3 +1,8 @@
-# Robot Pattinson
+# Automating Sunset
 
-Streams twilight films INTERWOVEN with Rob Patt just complaining about his role as Edward C.
+This is a P2 inspired by the other p2s but we're selling to a richer clientele. Think Elon Musk or Jeff Bezos.
+
+Contributors:
+- Marielle Nolasco
+- Warren Lee
+
