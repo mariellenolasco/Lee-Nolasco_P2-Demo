@@ -5,3 +5,4 @@ This is a P2 inspired by the other p2s but we're selling to a richer clientele. 
 Contributors:
 - Marielle Nolasco
 - Warren Lee
+
