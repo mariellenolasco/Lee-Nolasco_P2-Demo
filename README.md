@@ -1,2 +1,3 @@
-# Lee-Nolasco_P2-Demo
-This is a repo for a p2 demo
+# Automating Sunset
+
+This is a P2 inspired by the other p2s but we're selling to a richer clientele. Think Elon Musk.
